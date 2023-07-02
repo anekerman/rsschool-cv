@@ -8,7 +8,7 @@
 
 4. **Hard Skills:** Html, css, js basic, Markdown
 
-5. **Code Example:** (https://anekerman.github.io/rsschool-cv/)
+5. **Code Example:** (https://anekerman.github.io/rsschool-cv/cv)
 
 6. **Work experience:** I complete JavaScript course for beginners
 
