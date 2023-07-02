@@ -7,3 +7,11 @@
     My dream is to become a developer. I have many programmer friends and they motivate me to develop in this area
 
 4. **Hard Skills:** Html, css, js basic, Markdown
+
+5. **Code Example:** (https://anekerman.github.io/rsschool-cv/)
+
+6. **Work experience:** I complete JavaScript course for beginners
+
+7. **Education:** Chernihiv National Technological University
+
+8. **English level** A1
