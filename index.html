@@ -10,15 +10,30 @@
 <body>
     <header class="header">
         <div class="container">
+            <nav class="header__navigation">
+                <ul class="header__navigation-list">
+                    <li class="header__navigation-item">
+                        <a class="header__navigation-link" href="#info">info</a>
+                    </li>
+                    <li class="header__navigation-item">
+                        <a class="header__navigation-link" href="#contact">contact</a>
+                    </li>
+                    <li class="header__navigation-item">
+                        <a class="header__navigation-link" href="#skills">skills</a>
+                    </li>
+                    <li class="header__navigation-item">
+                        <a class="header__navigation-link" href="#about">about</a>
+                    </li>
+                </ul>
+            </nav>
             <h1 class="header__title">Kiril Mileiko</h1>
         </div>
     </header>
     <main>
-        <section class="info">
+        <section class="info" id="info">
             <div class="container">
                 <h2 class="info__title">developer</h2>
                 <img class="avatar" src="https://assets-prd.ignimgs.com/2022/12/07/gabe-newell-1670452283581.jpg" alt="Gabe">
-                
             </div>
         </section>
 
@@ -52,6 +67,28 @@
                         </a>
                     </li>
                 </ul>
+            </div>
+        </section>
+
+        <section class="skills" id="skills">
+            <div class="container">
+                <h2 class="skills__title">Skills</h2>
+                <ul class="skills__list">
+                    <li class="skills__list-item">Html</li>
+                    <li class="skills__list-item">css</li>
+                    <li class="skills__list-item">js basic</li>
+                    <li class="skills__list-item">Markdown</li>
+                </ul>
+            </div>
+        </section>
+
+        
+        <section class="about" id="about">
+            <div class="container">
+                <h2 class="about__title">About me</h2>
+                <p class="about__paragraph">My dream is to become a developer. I have many programmer friends and they motivate me to develop in this area</p>
+                <p class="about__paragraph">I graduated from Chernihiv National Technological University</p>
+                <p class="about__paragraph">My English level is A1</p>   
             </div>
         </section>
     </main>
